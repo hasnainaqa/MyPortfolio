@@ -17,7 +17,7 @@ export default function Contact() {
             <li className="flex items-center">
               <span className="font-semibold mr-2">Phone:</span>
               <a href="tel:+923107257619" className="text-blue-600 hover:underline">
-                +92 310 7257619
+                +92 325 6244441
               </a>
             </li>
             <li className="flex items-center">
