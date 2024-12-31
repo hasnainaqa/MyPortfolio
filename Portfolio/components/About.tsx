@@ -10,7 +10,7 @@ export default function About() {
           backend technologies and a focus on building user-centric applications.
         </p>
         <p className="text-gray-600">
-          When I'm not coding, I enjoy writing Urdu novels with deep, romantic, and violent themes, 
+          When I'm not coding, I enjoy writing Urdu novels with deep themes, 
           which helps me exercise my creativity in a different medium.
         </p>
       </div>
